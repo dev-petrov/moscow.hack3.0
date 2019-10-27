@@ -1,0 +1,62 @@
+[
+    [
+        {
+            "title": "Эпохи",
+            "type": "drag",
+            "question": "Расположи эпохи по возрастанию",
+            "answers": [
+                {
+                    "name": "Рим",
+                    "id": 3
+                },
+                {
+                    "name": "Первобытные люди",
+                    "id": 1
+                },
+                {
+                    "name": "Египет",
+                    "id": 2
+                }
+            ]
+        },
+        {
+            "title": "Эпохи",
+            "type": "input",
+            "question": "Самые известные постройки в Египте",
+            "answer": null,
+            "correct_answer": "Пирамиды"
+        },
+        {
+            "type": "choices",
+            "title": "Эпохи",
+            "question": "Кто был правителем Рима",
+            "answers": ["Цезарь", "Август", "Сентябрь", "Салат"],
+            "answer": null,
+            "correct_answer": 0
+        }
+    ],
+    [
+        {
+            "title": "Сложение",
+            "type": "input",
+            "question": "Сколько будет 55 + 48?",
+            "answer": null,
+            "correct_answer": "103"
+        },
+        {
+            "title": "Вычетание",
+            "type": "input",
+            "question": "Сколько будет 23 - 17?",
+            "answer": null,
+            "correct_answer": "6"
+        },
+        {
+            "type": "choices",
+            "title": "Деление",
+            "question": "Сколько будет 45 : 5?",
+            "answers": ["1", "8", "9", "5"],
+            "answer": null,
+            "correct_answer": 2
+        }
+    ]
+]

@@ -1,0 +1,133 @@
+{
+    "history": {
+        "link": "/subjects/history",
+        "title": "История",
+        "img": "",
+        "description": "Много поучительного",
+        "values": [
+            {
+                "subject": "Первобытные люди",
+                "description": "В данной лекции рассказывается об удивительных первобытных людях.",
+                "bookLings": [
+                    {
+                        "title": "Учебник по истории 5 класс",
+                        "link": "/"
+                    }
+                ],
+                "testLink": ""
+            },
+            {
+                "subject": "Египтяне",
+                "description": "Египтяне один из самых загадоных народов, узнай их тайны",
+                "bookLings": [
+                    {
+                        "title": "Учебник по истории 5 класс",
+                        "link": ""
+                    }
+                ],
+                "testLink": ""
+            },
+            {
+                "subject": "Рим",
+                "description": "Рим - великая империя.",
+                "bookLings": [
+                    {
+                        "title": "Учебник по истории 5 класс",
+                        "link": ""
+                    }
+                ],
+                "testLink": "/test/1"
+            }
+        ]
+    },
+    "math": {
+        "link": "/subjects/math",
+        "title": "Математика",
+        "img": "",
+        "description": "Царица наук",
+        "values": [
+            {
+                "subject": "Сложение",
+                "description": "Узнай как складывать числа",
+                "bookLings": [
+                    {
+                        "title": "Учебник по математике 5 класс",
+                        "link": ""
+                    }
+                ],
+                "testLink": ""
+            },
+            {
+                "subject": "Вычетание",
+                "description": "Узнай как вычитать числа",
+                "bookLings": [
+                    {
+                        "title": "Учебник по математике 5 класс",
+                        "link": ""
+                    }
+                ],
+                "testLink": ""
+            },
+            {
+                "subject": "Деление",
+                "description": "Узнай как делить числа",
+                "bookLings": [
+                    {
+                        "title": "Учебник по математике 5 класс",
+                        "link": ""
+                    }
+                ],
+                "testLink": ""
+            },
+            {
+                "subject": "Умножение",
+                "description": "Узнай как умножать числа",
+                "bookLings": [
+                    {
+                        "title": "Учебник по математике 5 класс",
+                        "link": ""
+                    }
+                ],
+                "testLink": "/test/2"
+            }
+        ]
+    },
+    "chemistry": {
+        "link": "/subjects/chemistry",
+        "title": "Химия",
+        "img": "",
+        "description": "Эээксперименты",
+        "values": [
+            {
+                "subject": "",
+                "description": "",
+                "bookLings": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ],
+                "testLink": ""
+            }
+        ]
+    },
+    "rus": {
+        "link": "/subjects/rus",
+        "title": "Русский язык",
+        "img": "",
+        "description": "Звучный язык",
+        "values": [
+            {
+                "subject": "",
+                "description": "",
+                "bookLings": [
+                    {
+                        "title": "",
+                        "link": ""
+                    }
+                ],
+                "testLink": ""
+            }
+        ]
+    }
+}
